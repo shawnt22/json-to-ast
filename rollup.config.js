@@ -7,7 +7,7 @@ export default {
 	output: {
 		file: 'build.js',
 		format: 'umd',
-		name: 'jsonToAst',
+		name: 'jsonToAstExt',
 	},
 	plugins: [
 		// Changes package path to relative
